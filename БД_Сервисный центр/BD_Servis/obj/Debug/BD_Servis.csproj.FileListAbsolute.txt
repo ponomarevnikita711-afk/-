@@ -1,0 +1,11 @@
+D:\Учеба\БД_Сервисный центр\BD_Servis\bin\Debug\BD_Servis.exe.config
+D:\Учеба\БД_Сервисный центр\BD_Servis\bin\Debug\BD_Servis.exe
+D:\Учеба\БД_Сервисный центр\BD_Servis\bin\Debug\BD_Servis.pdb
+D:\Учеба\БД_Сервисный центр\BD_Servis\obj\Debug\BD_Servis.csproj.AssemblyReference.cache
+D:\Учеба\БД_Сервисный центр\BD_Servis\obj\Debug\BD_Servis.Form1.resources
+D:\Учеба\БД_Сервисный центр\BD_Servis\obj\Debug\BD_Servis.Properties.Resources.resources
+D:\Учеба\БД_Сервисный центр\BD_Servis\obj\Debug\BD_Servis.csproj.GenerateResource.cache
+D:\Учеба\БД_Сервисный центр\BD_Servis\obj\Debug\BD_Servis.csproj.CoreCompileInputs.cache
+D:\Учеба\БД_Сервисный центр\BD_Servis\obj\Debug\BD_Servis.exe
+D:\Учеба\БД_Сервисный центр\BD_Servis\obj\Debug\BD_Servis.pdb
+D:\Учеба\БД_Сервисный центр\BD_Servis\obj\Debug\BD_Servis.exe.config
