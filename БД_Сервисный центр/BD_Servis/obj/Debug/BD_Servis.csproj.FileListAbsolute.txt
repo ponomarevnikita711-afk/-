@@ -9,3 +9,5 @@ D:\Учеба\БД_Сервисный центр\BD_Servis\obj\Debug\BD_Servis.c
 D:\Учеба\БД_Сервисный центр\BD_Servis\obj\Debug\BD_Servis.exe
 D:\Учеба\БД_Сервисный центр\BD_Servis\obj\Debug\BD_Servis.pdb
 D:\Учеба\БД_Сервисный центр\BD_Servis\obj\Debug\BD_Servis.exe.config
+D:\Учеба\БД_Сервисный центр\BD_Servis\obj\Debug\BD_Servis.Form2.resources
+D:\Учеба\БД_Сервисный центр\BD_Servis\obj\Debug\BD_Servis.Form3.resources

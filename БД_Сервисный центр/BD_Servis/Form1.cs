@@ -25,12 +25,18 @@ namespace BD_Servis
         private void button1_Click(object sender, EventArgs e)
         {
             Form2 f2 = new Form2();
-            this.Hide();
             f2.Show();
         }
 
         private void pictureBox1_Click(object sender, EventArgs e)
         {
+
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Form3 f3 = new Form3();
+            f3.Show();
 
         }
     }
